@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Family Connects</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+
+	<script type="text/javascript" src="js/app.js"></script>
+
+	<header class="log_off">
+		<h1 id ="welcome_text">Welcome to Family Connects</h1>
+		<h4 id="welcome_text_sub">Please Connect With Your Facebook Account</h4>
+	</header>
+
+	<fb:login-button scope="public_profile,email" onlogin="checkLoginState();">
+</fb:login-button>
+
+<div id="status">
+</div>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "familyconnect"
+        }, 
+        "familyconnect": {
+            "applicationId": "RowviMSQOVYxK0EdkvqTb6WdAen7UOuKDevA8cH8", 
+            "masterKey": "fVBOGokYy2OM8hh0j4IfStYgVu3GpUiV6LiDXaQn"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.19"
+    }
+}
